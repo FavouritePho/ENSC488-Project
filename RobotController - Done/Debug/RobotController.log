@@ -1,0 +1,18 @@
+﻿Build started 10/04/2017 12:20:19 PM.
+     1>Project "C:\Users\echadsey\Documents\RobotController - Almost Done - last edited by chase\RobotController.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RobotController.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         RobotController.vcxproj -> C:\Users\echadsey\Documents\RobotController - Almost Done - last edited by chase\Debug\RobotController.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\RobotController.unsuccessfulbuild".
+         Touching "Debug\RobotController.lastbuildstate".
+     1>Done Building Project "C:\Users\echadsey\Documents\RobotController - Almost Done - last edited by chase\RobotController.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

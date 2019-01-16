@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RobotController", "RobotController.vcxproj", "{01CCA3CF-AD46-4187-BD66-5E4C0F03CDE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B73467FE-2303-406F-9B54-76E6084A3217}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		RobotController.vsmdi = RobotController.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RobotController.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01CCA3CF-AD46-4187-BD66-5E4C0F03CDE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01CCA3CF-AD46-4187-BD66-5E4C0F03CDE5}.Debug|Win32.Build.0 = Debug|Win32
+		{01CCA3CF-AD46-4187-BD66-5E4C0F03CDE5}.Release|Win32.ActiveCfg = Release|Win32
+		{01CCA3CF-AD46-4187-BD66-5E4C0F03CDE5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
